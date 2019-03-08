@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CityInfo.API</name>
+    </assembly>
+    <members>
+        <member name="M:CityInfo.API.Controllers.CitiesController.GetCities">
+            <summary>
+            Retrieves the list of values
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
